@@ -1,0 +1,25 @@
+//
+// SwiftShield Conversion Map
+// ExampleProject
+// Deobfuscate crash logs (or any text file) by running:
+// swiftshield deobfuscate
+//
+
+DCLoHG62RLDPK6JRtGju6iLP60XKGw1u ===> fokfX1dVyA99nR7mzWuM87katYwjD9u5
+FayX0HdiFrre8dhVvE9RdDH1FRLR4PHH ===> P0DbF59y2wEaZ95MHqKKs8dyNhEWh5vi
+HSLv3ukwHo30sXge1hb5EnvjWnw5Jxw2 ===> gBeAidb7WDaBSpL9NROOEiPt4Nq4Zdje
+Iwx5MgV97eM8w9QgGlz4Pl8FQCPFBOQo ===> G4b0KNQf1vFnf7MWCxYm5IYEanxnFZ0T
+Nm4mdjKyzvZhkZnPQoIQtBBgZEiQmPBE ===> xythiY6ny8htdN0FGufBFmzwyvhFFgFV
+OagoJ8FIWbSBjVFto7x7G5aj3Y2wdgSW ===> Wh02egbqoAjuUS2stCTVNyDFQ5ZsgVwn
+S5KLhgywl6gv2MMyyFUaQ4Z8mmZ9OGK7 ===> N1PWDjs6L5iMGz8ThCIEbFZf8dkYQMOY
+TgThovg2UwzJP8nxDadwhPjYo0xHzpf4 ===> NO0C1o8HqYmBGRNRsTySfZO7K1T5FD6K
+UYTK7UjZFtRYJCyZfDScvvN8OLWnoUr6 ===> JizcYE4eaTUOHiQnHT4eUItbKcEsgins
+X693Inrz0nzMVFkrS9L7VhJQ5CBtU7Ai ===> IRIbFvZSUbS8UMCdUcg78WGspH2q4MuK
+YQle2DaSl1p6iHaM2iUNXdqGOa71HhN0 ===> oqIKN6lrMLKXBGKo1VPR4wo2BnkT36BU
+e6job9uCzn3UKjTxJ2JqrWdtxRdE0tYm ===> FEndzx3WoKRXyKI4gi4bQPuZP4iMjRJe
+gFCiAxGfpWVpVLmWHkEImKgSxYGugPbG ===> KkzuAGtK7DuArzQx3HAdn4AqHBYvCJ55
+h6oUgFc1DtIX2exA20c3lLrJsvVnj0zq ===> dfFNf1rb1lNvpoyhhkSWpZbBZUTDWZP9
+iWDMhL3vKVltVQseDIGkXZnPLkRI6KS5 ===> thZr4pYjOWYbZQdkmM00vSWOG1NYPF3p
+lFBzgQgUMRZKvyyMXaZgQoPWFs7HiTOV ===> aYfhJJ9JbuQMcOyJ4H6YJGbxK7OeI8Yp
+vg88QJwiFZBbR3cbGD4CKcvjPAqja3GC ===> MGM3clOsc8ND62ReKXg7dPNcSDXAV7zI
+xhfmUVleRUzKSd7m1T6WnBBW7cvnnZLP ===> vybO1PtM2z0FbH9bAvxXXiTWSvykCMyF
